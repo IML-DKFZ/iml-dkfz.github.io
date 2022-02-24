@@ -2514,7 +2514,6 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
-
 /* List */
 
 	ol {
@@ -3141,7 +3140,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgb(75, 84, 117, 0.9);
+		background-color: rgb(221,224,235, 0.8);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
