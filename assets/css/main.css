@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #b3bae1;
-		background-image:  linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg11.jpg");
+		background-image:  linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3531,7 +3531,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #b3bae1;
-				background-image:linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg11.jpg");
+				background-image:linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3643,7 +3643,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #b3bae1;
-			background-image: linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg11.jpg");
+			background-image: linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -4136,7 +4136,7 @@ input, select, textarea {
 
 		#footer {
 			background-color: #b3bae1;
-			background-image: linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg11.jpg");
+			background-image: linear-gradient(to top, rgba(107, 121, 209, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 			background-size: auto,
  cover;
 			background-position: center,
