@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,400,700|Source+Sans+Pro:300,400,600,300italic,600italic");
 
 /*
 	Solid State by HTML5 UP
@@ -3073,6 +3073,7 @@ input, select, textarea {
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
+			box-shadow: 2px 2px 5px 1.5px rgba(128, 128, 128, 0.297);
 		}
 
 			.features article:nth-child(2n) {
@@ -3538,8 +3539,8 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 1em;
-			font-weight: 200;
+			font-size: 1.2em;
+			font-weight: 400;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
