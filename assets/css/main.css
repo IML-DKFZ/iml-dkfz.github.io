@@ -2264,7 +2264,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #004D80;
+			border-color: #005f9f;
 		}
 
 	select {
@@ -2372,7 +2372,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #004D80;
+			border-color: #005f9f;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -3069,7 +3069,7 @@ input, select, textarea {
 
 		.features article {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
-			background-color: #004D80;
+			background-color: #005f9f;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
@@ -3428,7 +3428,7 @@ input, select, textarea {
 				}
 
 					#menu .links li a:hover {
-						background: #004D80;
+						background: #005f9f;
 					}
 
 		@media screen and (max-width: 736px) {
