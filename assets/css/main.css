@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #b3bae1;
+		background-color: #ededed;
 		background-image:  linear-gradient(to top, rgba(0, 118, 186, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 		background-size: auto,
  cover;
@@ -3550,7 +3550,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #b3bae1;
+				background-color: #ededed;
 				background-image:linear-gradient(to top, rgba(0, 118, 186, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 				background-size: auto,
  cover;
@@ -3666,7 +3666,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #b3bae1;
+			background-color: #ededed;
 			background-image: linear-gradient(to top, rgba(0, 118, 186, 0.8), rgba(212, 227, 252, 0.6)), url("../../images/bg.gif");
 			background-size: auto,
  cover;
