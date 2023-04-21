@@ -3636,14 +3636,6 @@ body.is-menu-visible #menu .inner {
 }
 
 #banner .logo {
-	-moz-transition: opacity 0.7s ease, -moz-transform 0.5s ease;
-	-webkit-transition: opacity 0.7s ease, -webkit-transform 0.5s ease;
-	-ms-transition: opacity 0.7s ease, -ms-transform 0.5s ease;
-	transition: opacity 0.7s ease, transform 0.5s ease;
-	-moz-transform: translateY(0);
-	-webkit-transform: translateY(0);
-	-ms-transform: translateY(0);
-	transform: translateY(0);
 	opacity: 1;
 	margin: 0 0 1.3em 0;
 }
@@ -3655,18 +3647,6 @@ body.is-menu-visible #menu .inner {
 
 
 #banner h2 {
-	-moz-transition: opacity 0.3s ease, -moz-transform 0.3s ease, -moz-filter 0.25s ease;
-	-webkit-transition: opacity 0.3s ease, -webkit-transform 0.3s ease, -webkit-filter 0.25s ease;
-	-ms-transition: opacity 0.3s ease, -ms-transform 0.3s ease, -ms-filter 0.25s ease;
-	transition: opacity 0.3s ease, transform 0.3s ease, filter 0.25s ease;
-	-moz-transform: translateX(0);
-	-webkit-transform: translateX(0);
-	-ms-transform: translateX(0);
-	transform: translateX(0);
-	-moz-transition-delay: 0.4s;
-	-webkit-transition-delay: 0.4s;
-	-ms-transition-delay: 0.4s;
-	transition-delay: 0.4s;
 	-moz-filter: blur(0);
 	-webkit-filter: blur(0);
 	-ms-filter: blur(0);
@@ -3679,18 +3659,6 @@ body.is-menu-visible #menu .inner {
 }
 
 #banner p {
-	-moz-transition: opacity 0.3s ease, -moz-transform 0.3s ease, -moz-filter 0.25s ease;
-	-webkit-transition: opacity 0.3s ease, -webkit-transform 0.3s ease, -webkit-filter 0.25s ease;
-	-ms-transition: opacity 0.3s ease, -ms-transform 0.3s ease, -ms-filter 0.25s ease;
-	transition: opacity 0.3s ease, transform 0.3s ease, filter 0.25s ease;
-	-moz-transform: translateX(0);
-	-webkit-transform: translateX(0);
-	-ms-transform: translateX(0);
-	transform: translateX(0);
-	-moz-transition-delay: 0.45s;
-	-webkit-transition-delay: 0.45s;
-	-ms-transition-delay: 0.45s;
-	transition-delay: 0.45s;
 	-moz-filter: blur(0);
 	-webkit-filter: blur(0);
 	-ms-filter: blur(0);
@@ -4333,7 +4301,7 @@ body.is-preload #banner p {
 
 	#footer {
 		background-color: #c1c5d8;
-		background-image: linear-gradient(to top,rgba(0, 118, 186, 0.9), rgba(212, 227, 252, 0.9)), url("../../images/bg2.gif");
+		background-image: linear-gradient(to top, rgba(0, 118, 186, 0.9), rgba(212, 227, 252, 0.9)), url("../../images/bg2.gif");
 		background-size: auto,
 			cover;
 		background-position: center,
